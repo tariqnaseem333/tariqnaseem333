@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on project Issue Tracker ...<br>🧑‍🤝‍🧑 I'm looking to collaborate on Java Spring Boot Backend Development Projects<br>📝 I'm currently learning Spring Boot ...<br> 💬Ask me about Vue Front End Development and Java Spring Boot Backend Development<br>⚡Fun fact - Started as a frontend dev, then switched to backend—now my APIs return beautifully structured JSON. 😎🔥
+👋 Hi there, I am Tariq Naseem Java Developer from New Delhi India<br>
+🔭 I'm currently working on project Issue Tracker [Issue Tracker](https://github.com/tariqnaseem333/Issue-Tracker.git) <br>
+🧑‍🤝‍🧑 I'm looking to collaborate on Java Spring Boot Backend Development Projects<br>
+📝 I'm currently learning Spring Boot [here](https://github.com/tariqnaseem333/Java-Spring-Backend.git) <br>
+💬 Ask me about Java Spring Boot Backend Development and Vue Front End Development <br>
+⚡ Fun fact - Started as a frontend dev, then switched to backend — now my APIs return beautifully structured JSON. 😎🔥
 
 
 ## 🌐 Socials:
